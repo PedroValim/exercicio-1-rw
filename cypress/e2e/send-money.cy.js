@@ -3,7 +3,6 @@ describe('Enviar Dinheiro', () => {
   beforeEach(() => {
     cy.fixture('user').as('userData');
 
-    // Login explícito (igual ao padrão do projeto exemplo)
     cy.visit('/signin');
 
     cy.get('[data-test="signin-username"]')
