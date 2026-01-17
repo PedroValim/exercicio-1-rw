@@ -13,5 +13,11 @@
     "username": "pedrovalim123",
     "password": "123456",
     "confirmPassword": "123456"
+  },
+  "transaction": {
+    "receiver": "devon.becker",
+    "amountValid": "5",
+    "amountInvalid": "10000",
+    "description": "Pagamento teste Cypress"
   }
 }
