@@ -1,0 +1,17 @@
+{
+  "validUser": {
+    "username": "cypress_user",
+    "password": "123456"
+  },
+  "invalidUser": {
+    "username": "usuario_invalido",
+    "password": "senha_errada"
+  },
+  "newUser": {
+    "firstName": "Pedro",
+    "lastName": "Valim",
+    "username": "pedrovalim123",
+    "password": "123456",
+    "confirmPassword": "123456"
+  }
+}
